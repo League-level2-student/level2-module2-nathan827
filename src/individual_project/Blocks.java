@@ -22,6 +22,7 @@ public class Blocks{
 		panel.setPreferredSize(size);
 		frame.setPreferredSize(size);;
 		frame.pack();
+		
 	}
 	
 	
