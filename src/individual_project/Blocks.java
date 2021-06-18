@@ -18,12 +18,14 @@ public class Blocks{
 			
 			panel.add(buttons [i]);
 		}
-		Dimension size = new Dimension(550,550);
+		
+		Dimension size = new Dimension(550,600);
 		panel.setPreferredSize(size);
 		frame.setPreferredSize(size);;
 		frame.pack();
 		
 	}
+	
 	
 	
 }
