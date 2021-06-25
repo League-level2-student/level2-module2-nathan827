@@ -24,6 +24,7 @@ public class Blocks{
 		frame.setPreferredSize(size);;
 		frame.pack();
 		
+		
 	}
 	
 	
